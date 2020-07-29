@@ -1,4 +1,4 @@
-### Hi there, I'm Rob 👋
+### Hi there, I'm Rob 👋👨‍💻
 
 <!--
 **robertyoung2/robertyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Research Masters Student at University College Dublin. I'm interested in machine learning, software development and how we can use these tools to improve our lives. I’m currently working on mixed reality (HoloLens), computer vision and how we can use these tools for accessibility. 
