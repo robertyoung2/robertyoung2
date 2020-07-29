@@ -4,7 +4,10 @@
 **robertyoung2/robertyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a Research Masters Student at University College Dublin. I'm interested in machine learning, software development and how we can use these tools to improve our lives. I’m currently working on mixed reality (HoloLens), computer vision and accessibility. 
+I'm a Research Masters Student at University College Dublin. I'm interested in machine learning, software development and how we can use these tools to improve our lives. I’m currently working on:
+* :goggles: mixed reality
+* :video_camera: computer vision  
+* :wheelchair: accessibility
 
 *** 
 
