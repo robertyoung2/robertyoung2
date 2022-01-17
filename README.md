@@ -1,4 +1,4 @@
-### Hi there, I'm Rob 👋:man_technologist:
+### Hi there, I'm Rob 
 
 <!--
 **robertyoung2/robertyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
