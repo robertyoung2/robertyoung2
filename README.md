@@ -8,6 +8,7 @@ I'm a Research Masters Student at University College Dublin. I'm interested in m
 * :goggles: mixed reality
 * :video_camera: computer vision  
 * :wheelchair: accessibility
+* :computer: software engineering 
 
 *** 
 
