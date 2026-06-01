@@ -1,20 +1,22 @@
-### Hi there, I'm Rob 
+## Robert Young
 
-<!--
-**robertyoung2/robertyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Technical Lead & Software Engineer at **Qualtrics** in Dublin, where I lead the
+EMEA Engineering Services team — owning technical direction, architecture, and
+end-to-end delivery for high-value custom builds.
 
-I'm a Research Masters Student at University College Dublin. I'm interested in machine learning, software development and how we can use these tools to improve our lives. I’m currently working on:
-* :goggles: mixed reality
-* :video_camera: computer vision  
-* :wheelchair: accessibility
-* :computer: software engineering 
+I build full-stack systems.
 
-*** 
+**Core areas**
+- Full-stack engineering — TypeScript, React, Node.js, Python
+- Cloud & microservices — AWS, distributed systems, API design
+- Applied AI / ML — machine learning, computer vision, LLM-powered features
+- Research — MSc in Computer Vision & ML, with published work in NLP and CV
 
-#### Places to find me :globe_with_meridians:
+Prior to software, I spent seven years in automotive systems engineering, where
+I qualified as a Chartered Engineer. 
 
-* :desktop_computer: Personal [website](https://www.robertyoung.ie)
-* :briefcase: Connect on [LinkedIn](https://www.linkedin.com/in/robertyoung6/)
-* :microscope: Research work on [Google Scholar](https://scholar.google.com/citations?user=FATl9cYAAAAJ&hl=en)
-* :pancakes: Community help on [Stack Overflow](https://stackoverflow.com/users/10586772/robert-young)
+**Links**
+- [Website](https://www.robertyoung.ie)
+- [LinkedIn](https://www.linkedin.com/in/robertyoung6/)
+- [Google Scholar](https://scholar.google.com/citations?user=FATl9cYAAAAJ&hl=en)
+- [Stack Overflow](https://stackoverflow.com/users/10586772/robert-young)
