@@ -1,7 +1,7 @@
-## Robert Young
+## Robert Young 👋
 
-Technical Lead & Software Engineer at **Qualtrics** in Dublin, where I lead the
-EMEA Engineering Services team — owning technical direction, architecture, and
+Technical Lead & Software Engineer at **Qualtrics** in Dublin 🇮🇪, where I lead the
+EMEA Engineering Services team - owning technical direction, architecture, and
 end-to-end delivery for high-value custom builds.
 
 I build full-stack systems.
@@ -13,10 +13,9 @@ I build full-stack systems.
 - Research — MSc in Computer Vision & ML, with published work in NLP and CV
 
 Prior to software, I spent seven years in automotive systems engineering, where
-I qualified as a Chartered Engineer. 
+I qualified as a Chartered Engineer.
 
 **Links**
 - [Website](https://www.robertyoung.ie)
 - [LinkedIn](https://www.linkedin.com/in/robertyoung6/)
 - [Google Scholar](https://scholar.google.com/citations?user=FATl9cYAAAAJ&hl=en)
-- [Stack Overflow](https://stackoverflow.com/users/10586772/robert-young)
