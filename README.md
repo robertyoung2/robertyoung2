@@ -1,4 +1,4 @@
-## Robert Young 👋
+## Robert Young
 
 Technical Lead & Software Engineer at **Qualtrics** in Dublin 🇮🇪, where I lead the
 EMEA Engineering Services team - owning technical direction, architecture, and
